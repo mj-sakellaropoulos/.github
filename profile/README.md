@@ -1,7 +1,7 @@
 <a href="https://nomadis.co/"><img src="https://github.com/user-attachments/assets/592ad6b2-43a3-467a-9933-24c27b8ee049"></a> <!-- Header -->
 <a href="https://github.com/mj-sakellaropoulos/"><img src="https://github.com/user-attachments/assets/e186394e-be06-4f70-8e7a-accedfbee44f"></a> <!-- Interest Row -->
 
-I'm passionate about the development and design of complex software systems, and how to support them with DevOps approaches. In my spare time, you can find me constantly tinkering with various technologies that happen to capture my interest.
+I'm passionate about the development and design of complex software systems, and how to support them with DevOps approaches. In my spare time, you can find me tinkering with various technologies that happen to capture my interest.
 
 <!-- Contact -->
 Contact me:
