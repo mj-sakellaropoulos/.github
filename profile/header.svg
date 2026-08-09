@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-v-4e142996="" viewBox="0 0 1920 220" xmlns="http://www.w3.org/2000/svg"><style xmlns="http://www.w3.org/1999/xhtml">
+.page[data-v-7a7a37b1] {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.row[data-v-7a7a37b1] {
+  padding-top: 0.2em;
+  display: flex;
+  height: 200px;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+</style><style xmlns="http://www.w3.org/1999/xhtml">
+.contact-row[data-v-3f8d6dff] {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  margin: 1em 0;
+  font-size: 0.9em;
+}
+.contact-link[data-v-3f8d6dff] {
+  color: #8cf;
+  text-decoration: none;
+}
+.icon[data-v-3f8d6dff] {
+  width: 20px;
+  height: 20px;
+}
+.contact-icon[data-v-3f8d6dff] {
+  font-size: 1.2em;
+}
+</style><style xmlns="http://www.w3.org/1999/xhtml">
+.interest-row[data-v-80d7d53b] {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5em;
+  width: 100%;
+  height: 100%;
+}
+
+/* Force each card to be square and sized reasonably */
+/* .interest-row :deep(.card) {
+
+} */
+
+
+
+</style><style xmlns="http://www.w3.org/1999/xhtml">
+.card[data-v-f0ef826f] {
+  width: 220px;
+  height: 220px;
+  aspect-ratio: 1 / 1;
+  flex: 0 0 auto;
+}
+.title[data-v-f0ef826f] {
+  font-weight: bold;
+}
+.icon[data-v-f0ef826f] {
+  font-size: 1.5em;
+}
+.subtitle[data-v-f0ef826f] {
+  font-size: 0.65em;
+}
+</style><style xmlns="http://www.w3.org/1999/xhtml">
+.header[data-v-c970699f] {
+  margin: 0;
+  height: 100%;
+}
+.hello[data-v-c970699f] {
+  width: 75%;
+  font-size: 4em;
+  padding-left: 0.2em;
+  padding-top: 0.2em;
+  margin: 0;
+  text-align: left;
+}
+a[data-v-c970699f] {
+  color: #86E5FF;
+}
+</style><style xmlns="http://www.w3.org/1999/xhtml">
+.background[data-v-4e142996] {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+</style><style xmlns="http://www.w3.org/1999/xhtml">:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* line-height: 1.5;
+  font-weight: 400; */
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#app {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* @media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+} */
+</style><style xmlns="http://www.w3.org/1999/xhtml">
+    body {
+      margin: 0;
+      background: #000;
+      color: white;
+      font-family: sans-serif;
+    }
+  </style><defs data-v-4e142996=""><filter data-v-4e142996="" id="blur"><feGaussianBlur data-v-4e142996="" in="SourceGraphic" stdDeviation="100"/></filter><radialGradient data-v-4e142996="" id="blob1" cx="50%" cy="50%" r="50%"><stop data-v-4e142996="" offset="0%" stop-color="#0d1b26" stop-opacity="1"/><stop data-v-4e142996="" offset="100%" stop-color="#0d1b26" stop-opacity="0"/></radialGradient><radialGradient data-v-4e142996="" id="blob2" cx="50%" cy="50%" r="50%"><stop data-v-4e142996="" offset="0%" stop-color="#3a1f3d" stop-opacity="1"/><stop data-v-4e142996="" offset="100%" stop-color="#3a1f3d" stop-opacity="0"/></radialGradient><radialGradient data-v-4e142996="" id="blob3" cx="50%" cy="50%" r="50%"><stop data-v-4e142996="" offset="0%" stop-color="#223344" stop-opacity="1"/><stop data-v-4e142996="" offset="100%" stop-color="#223344" stop-opacity="0"/></radialGradient><radialGradient data-v-4e142996="" id="blob4" cx="50%" cy="50%" r="50%"><stop data-v-4e142996="" offset="0%" stop-color="#345d78" stop-opacity="1"/><stop data-v-4e142996="" offset="100%" stop-color="#345d78" stop-opacity="0"/></radialGradient><radialGradient data-v-4e142996="" id="blob5" cx="50%" cy="50%" r="50%"><stop data-v-4e142996="" offset="0%" stop-color="#2f8886" stop-opacity="1"/><stop data-v-4e142996="" offset="100%" stop-color="#2f8886" stop-opacity="0"/></radialGradient><radialGradient data-v-4e142996="" id="blob6" cx="50%" cy="50%" r="50%"><stop data-v-4e142996="" offset="0%" stop-color="#60415f" stop-opacity="1"/><stop data-v-4e142996="" offset="100%" stop-color="#60415f" stop-opacity="0"/></radialGradient><radialGradient data-v-4e142996="" id="blob7" cx="50%" cy="50%" r="50%"><stop data-v-4e142996="" offset="0%" stop-color="#746645" stop-opacity="1"/><stop data-v-4e142996="" offset="100%" stop-color="#746645" stop-opacity="0"/></radialGradient></defs><!-- Solid background --><rect data-v-4e142996="" width="100%" height="100%" fill="#0b0f1a"/><!-- Animated blobs --><g data-v-4e142996="" filter="url(#blur)"><circle data-v-4e142996="" r="800" fill="url(#blob1)"><animate attributeName="cx" values="2200;-200;1800;100" dur="38s" repeatCount="indefinite"/><animate attributeName="cy" values="600;200;-300;500" dur="31s" repeatCount="indefinite"/></circle><circle data-v-4e142996="" r="800" fill="url(#blob2)"><animate attributeName="cx" values="-300;800;2300;900" dur="42s" repeatCount="indefinite"/><animate attributeName="cy" values="700;-250;400;580" dur="35s" repeatCount="indefinite"/></circle><circle data-v-4e142996="" r="800" fill="url(#blob3)"><animate attributeName="cx" values="2100;400;-400;1800" dur="33s" repeatCount="indefinite"/><animate attributeName="cy" values="550;60;620;-200" dur="36s" repeatCount="indefinite"/></circle><circle data-v-4e142996="" r="800" fill="url(#blob4)"><animate attributeName="cx" values="1800;2000;-300;400" dur="39s" repeatCount="indefinite"/><animate attributeName="cy" values="100;800;160;760" dur="30s" repeatCount="indefinite"/></circle><circle data-v-4e142996="" r="800" fill="url(#blob5)"><animate attributeName="cx" values="300;1900;-400;2200" dur="45s" repeatCount="indefinite"/><animate attributeName="cy" values="-200;150;780;50" dur="38s" repeatCount="indefinite"/></circle><circle data-v-4e142996="" r="800" fill="url(#blob6)"><animate attributeName="cx" values="2400;-500;1300;600" dur="40s" repeatCount="indefinite"/><animate attributeName="cy" values="100;900;-150;480" dur="34s" repeatCount="indefinite"/></circle><circle data-v-4e142996="" r="800" fill="url(#blob7)"><animate attributeName="cx" values="2000;500;-250;1600" dur="50s" repeatCount="indefinite"/><animate attributeName="cy" values="700;300;-100;420" dur="42s" repeatCount="indefinite"/></circle></g><!-- Slot Content --><foreignObject data-v-4e142996="" width="1920px" height="220px"><div data-v-4e142996="" xmlns="http://www.w3.org/1999/xhtml" id="slot-xml-container" style="display: block; height: 100%; width: 100%;"><div data-v-c970699f="" data-v-7a7a37b1="" class="header"><p data-v-c970699f="" class="hello"> Hi, I’m <strong data-v-c970699f="">Michael John Sakellaropoulos</strong>, DevSecOps Specialist at <a data-v-c970699f="" href="#"><u data-v-c970699f=""><strong data-v-c970699f="">Nomadis</strong></u></a>. </p></div></div></foreignObject></svg>
