@@ -15,6 +15,7 @@ Contact me:
 ![argo](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![gcp](https://img.shields.io/badge/Google%20Coud-%234285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white&logoSize=large)
+![cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&logoSize=large)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kustomize-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 ![Talos](https://custom-icon-badges.demolab.com/badge/Talos%20Linux-4f0010?&style=for-the-badge&logo=talos-linux)
